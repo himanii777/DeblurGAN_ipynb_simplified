@@ -11,9 +11,9 @@ I had encountered a lot of issues while training and some of the tips I can give
 2. Start training with same learning rates of disc & generator (0.0001 standard according to the paper)
 3. If the generator doesn't seem to improve then change the lr to 0.0002/ train the generator twice per epoch or add noise to both blurred and sharp data
 4. When you are using custom dataset, resize it with correct dimensions so that image doesn't distort. I have put AR code inside.
-5. Overfitting isn't really an issue for this model however, balancing generator and discriminator can become challenging for which play with their learning rates and training frequnecy.
+5. Overfitting isn't really an issue for this model however, balancing generator and discriminator can become challenging for which play with their learning rates and training frequency.
 
-Loss visualization:
+Loss visualization(100 epochs):
 
 ![image](https://github.com/user-attachments/assets/80091dc5-efa5-4ce0-9383-368a4989658e)
 ![image](https://github.com/user-attachments/assets/c09b9e00-040b-4d70-bdf0-eb28c25491c9)
