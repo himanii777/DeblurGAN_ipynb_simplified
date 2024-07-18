@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/32a92023-6fb6-43a1-a99d-adfe700d47f6)
-![image](https://github.com/user-attachments/assets/45a0a45c-0be4-4ccf-9569-b1a81a76b0d5)
+![image](https://github.com/user-attachments/assets/5930f2df-4e0b-4d00-bbcd-1bdcab528380)
+
 
 I have simplified the deblurgan implementation into a ipynb.
 There you can upload your custom dataset, train, test and continue training the pretrained model.
